@@ -12,7 +12,5 @@ namespace Portfolio.Controllers
             this.userDB = _userDB;
         }
         private readonly UserDBContext userDB;
-
-        
     }
 }
